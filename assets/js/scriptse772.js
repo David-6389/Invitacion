@@ -2,7 +2,7 @@
 
 // Confirmar asistencia parallax
 $('.parallax-canciones').parallax({
-  imageSrc: 'assets/img/confirmanos-5-comprimida.jpg'
+  imageSrc: 'assets/img/confirmanos-5-comprimida.JPG'
 
 });
 
