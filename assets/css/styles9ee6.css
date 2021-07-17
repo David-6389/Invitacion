@@ -336,6 +336,15 @@ section.ceremonia p{
   margin: 0;
 }
 
+.valor-1 {
+  /* font-family: 'Martel', serif; */
+  padding: 0 0 10px 0;
+  text-align: center;
+  font-size: 25px;
+  color: var(--color-primario);
+  margin: 0;
+}
+
 .punto {
   color: var(--color-primario);
 }
