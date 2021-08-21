@@ -162,7 +162,7 @@ a:hover{
 
 /* Portada */
 section.portada{
-  height: 100vh;
+  padding: 110px 0px 5px 0px;
 }
 
 
@@ -411,7 +411,7 @@ section.ceremonia p{
 
 
 
-section.galeria h4{
+/* section.galeria h4{
   color: black;
   font-size: 35px;
   margin: 20px;
@@ -449,13 +449,13 @@ section.galeria p{
 .carousel-control-next,
 .carousel-control-prev {
     filter: invert(100%);
-}
+} */
 
 
 /* ---------- */
 
 /* Instagram */
-
+/* 
 section.instagram{
   text-align: center;
   padding: 60px 0px 80px 0px;
@@ -483,7 +483,7 @@ section.instagram p a{
 section.instagram  img.icon{
   width: 150px;
   margin-bottom: 0px;
-}
+} */
 /* .................. */
 
 
