@@ -1,17 +1,17 @@
 
 
-// Confirmar asistencia parallax
-$('.parallax-graciasss').parallax({
-  imageSrc: 'assets/img/confirmanos-5-comprimida.jpg'
+// portada asistencia parallax
+$('.parallax-graciass').parallax({
+  imageSrc: 'assets/img/portada-1-comprimido.jpg'
 });
 
 // $('.parallax-canciones').parallax({
 //   imageSrc: 'assets/img/confirmanos-5-comprimida.JPG'
 // });
 
-// Portada parallax
-$('.parallax-graciass').parallax({
-  imageSrc: 'assets/img/portada-1-comprimido.jpg'
+// confirmar parallax
+$('.parallax-graciasss').parallax({
+  imageSrc: 'assets/img/confirmanos-5-comprimida.jpg'
 });
 
 // $('.parallax-portada').parallax({
