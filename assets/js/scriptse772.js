@@ -10,8 +10,8 @@ $('.parallax-graciasss').parallax({
 // });
 
 // Portada parallax
-$('.parallax-graciass').parallax({
-  imageSrc: 'assets/img/portada-4-comprimido.jpg'
+$('.parallax-instagram').parallax({
+  imageSrc: 'assets/img/portada-1-comprimido.jpg'
 });
 
 // $('.parallax-portada').parallax({
