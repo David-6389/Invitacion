@@ -11,7 +11,7 @@ $('.parallax-graciass').parallax({
 
 // confirmar parallax
 $('.parallax-graciasss').parallax({
-  imageSrc: 'assets/img/confirmanos-5-comprimida.jpg'
+  imageSrc: 'assets/img/confirmanos-5-comprimida.JPG'
 });
 
 // $('.parallax-portada').parallax({
