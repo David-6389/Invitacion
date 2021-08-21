@@ -10,7 +10,7 @@ $('.parallax-graciass').parallax({
 // });
 
 // confirmar parallax
-$('.parallax-instagram').parallax({
+$('.parallax-graciasss').parallax({
   imageSrc: 'assets/img/confirmanos-5-comprimida.jpg'
 });
 
