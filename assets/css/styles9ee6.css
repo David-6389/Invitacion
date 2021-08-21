@@ -161,16 +161,16 @@ a:hover{
 
 
 /* Portada */
-/* section.portada{
-  height: 100vh;
-} */
-
-
 section.portada{
+  height: 100vh;
+}
+
+
+/* section.portada{
   padding: 50px 2px;
   margin: 0;
   position: relative;
-}
+} */
 /* ---------- */
 
 
