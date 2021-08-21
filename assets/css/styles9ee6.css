@@ -161,8 +161,17 @@ a:hover{
 
 
 /* Portada */
-section.portada{
+section.portada {
+  text-align: center;
   padding: 110px 0px 5px 0px;
+}
+
+section.portada p {
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  font-weight: 300;
+  text-align: center;
+  padding: 120px 0 0 0;
 }
 
 
