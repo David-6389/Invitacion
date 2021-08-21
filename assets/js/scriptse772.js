@@ -2,7 +2,7 @@
 
 // Confirmar asistencia parallax
 $('.parallax-graciasss').parallax({
-  imageSrc: 'assets/img/confirmanos-5-comprimida.jpg'
+  imageSrc: 'assets/img/confirmanos-4-comprimida.jpg'
 });
 
 // $('.parallax-canciones').parallax({
@@ -11,7 +11,7 @@ $('.parallax-graciasss').parallax({
 
 // Portada parallax
 $('.parallax-graciass').parallax({
-  imageSrc: 'assets/img/portada-1-comprimido.jpg'
+  imageSrc: 'assets/img/portada-4-comprimido.jpg'
 });
 
 // $('.parallax-portada').parallax({
