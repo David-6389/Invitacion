@@ -161,7 +161,11 @@ a:hover{
 
 
 /* Portada */
-section.portada {
+section.portada{
+  height: 100vh;
+}
+
+/* section.portada {
   text-align: center;
   padding: 110px 0px 5px 0px;
 }
@@ -172,7 +176,7 @@ section.portada p {
   font-weight: 300;
   text-align: center;
   padding: 120px 0 0 0;
-}
+} */
 
 
 /* section.portada{
